@@ -1,4 +1,6 @@
 ## Car Shop
+This is a small console app I've made for my university...
+
 The idea of this C console program is a **Car Shop**, which saves data to encrypted binary files. In addition, it can filter out products older than a given date, sorts them out by a certain type and searches for a specific product ID. I chose to use binary files here because firstly, they are faster than normal text files, and second, they are much more secure for more important data.
 
 ###Things used for this small project:
